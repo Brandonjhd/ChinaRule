@@ -19,7 +19,7 @@ Update at UTC+8 3:00
 ### 订阅链接
 | 列表名称 | 代理工具 | 订阅链接 |
 |:--------:|---------|:--------:|
-| **ChinaMax** | 小火箭（Shadowrocket） & Surge | [Raw](https://raw.githubusercontent.com/Brandonjhd/ChinaRule/main/china_max_sr.list) |
+| **ChinaMax** | 小火箭（Shadowrocket） & Surge | [Raw](https://github.com/uxudjs/ChinaRule/raw/refs/heads/main/china_max_sr.list) |
 
 ### 鸣谢
 特别感谢以下规则来源的贡献与长期维护：
@@ -39,7 +39,7 @@ Update at UTC+8 3:00
 ### 訂閱連結
 | 列表名稱 | 代理工具 | 訂閱連結 |
 |:--------:|---------|:--------:|
-| **ChinaMax** | 小火箭（Shadowrocket） & Surge | [Raw](https://raw.githubusercontent.com/Brandonjhd/ChinaRule/main/china_max_sr.list) |
+| **ChinaMax** | 小火箭（Shadowrocket） & Surge | [Raw](https://github.com/uxudjs/ChinaRule/raw/refs/heads/main/china_max_sr.list) |
 
 ### 鳴謝
 特別感謝以下規則來源的支持與長期維護：
@@ -59,7 +59,7 @@ Shadowrocket & Surge China Direct Connect Rule Set (Daily Update, Multi-source A
 ### Subscription Links
 | List Name | Proxy Tool | Subscription Link |
 |:---------:|------------|:-----------------:|
-| **ChinaMax** | Shadowrocket & Surge | [Raw](https://raw.githubusercontent.com/Brandonjhd/ChinaRule/main/china_max_sr.list) |
+| **ChinaMax** | Shadowrocket & Surge | [Raw](https://github.com/uxudjs/ChinaRule/raw/refs/heads/main/china_max_sr.list) |
 
 ### Acknowledgements
 Special thanks to the following sources for their rule contributions and ongoing maintenance:
@@ -79,7 +79,7 @@ Shadowrocket & Surge 中国ダイレクト接続ルールセット（毎日更�
 ### サブスクリプションリンク
 | リスト名 | プロキシツール | サブスクリプション URL |
 |:--------:|----------------|:---------------------:|
-| **ChinaMax** | Shadowrocket & Surge | [Raw](https://raw.githubusercontent.com/Brandonjhd/ChinaRule/main/china_max_sr.list) |
+| **ChinaMax** | Shadowrocket & Surge | [Raw](https://github.com/uxudjs/ChinaRule/raw/refs/heads/main/china_max_sr.list) |
 
 ### 謝辞
 以下のルール提供元の貢献と継続的なメンテナンスに深く感謝いたします：
@@ -99,7 +99,7 @@ Shadowrocket & Surge 중국 직접 연결 규칙 모음 (매일 업데이트, �
 ### 구독 링크 
 | 리스트 이름 | 프록시 도구 | 구독 URL |
 |:-----------:|-------------|:---------:|
-| **ChinaMax** | Shadowrocket & Surge | [Raw](https://raw.githubusercontent.com/Brandonjhd/ChinaRule/main/china_max_sr.list) |
+| **ChinaMax** | Shadowrocket & Surge | [Raw](https://github.com/uxudjs/ChinaRule/raw/refs/heads/main/china_max_sr.list) |
 
 ### 감사합니다
 다음 규칙 소스의 기여와 지속적인 유지보수에 감사드립니다：
@@ -112,4 +112,4 @@ Shadowrocket & Surge 중국 직접 연결 규칙 모음 (매일 업데이트, �
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/ChinaRule&type=Date)](https://star-history.com/#Brandonjhd/ChinaRule&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=uxudjs/ChinaRule&type=Date)](https://star-history.com/#uxudjs/ChinaRule&Date)
